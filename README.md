@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🐱 I’m a cat!<br>- 🐾 I’m currently working with the EMC team.<br>- 🐋 My child is Belu, a white whale.<br>- 😸 Also, I’m quite lazy!<br>
+- 😸
 
 # 🐍 snk
 <picture>
